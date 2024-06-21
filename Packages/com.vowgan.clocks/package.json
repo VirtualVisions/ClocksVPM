@@ -1,0 +1,14 @@
+{
+  "name": "com.vowgan.clocks",
+  "displayName": "Clocks",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Various clock prefabs for VRChat.",
+  "author": {
+    "name": "Vowgan",
+    "email": "VowganVR@Gmail.com"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.5"
+  }
+}
