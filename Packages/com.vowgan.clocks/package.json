@@ -1,7 +1,7 @@
 {
   "name": "com.vowgan.clocks",
-  "displayName": "Clocks",
-  "version": "1.7.0",
+  "displayName": "Vowgan Clocks",
+  "version": "1.7.1",
   "unity": "2022.3",
   "description": "Various clock prefabs for VRChat.",
   "author": {
